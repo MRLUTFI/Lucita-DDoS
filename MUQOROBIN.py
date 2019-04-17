@@ -89,8 +89,8 @@ def usage():
 	╦  ┬ ┬┌─┐┬┌┬┐┌─┐  ╔╦╗╔╦╗┌─┐╔═╗
 	║  │ ││  │ │ ├─┤   ║║ ║║│ │╚═╗
 	╩═╝└─┘└─┘┴ ┴ ┴ ┴  ═╩╝═╩╝└─┘╚═╝
-	Script DoS hack by Luthfi Script v.1
-	Luthfi seorang hacker terhebat!1!1! :).
+	Script DDoS hack by Luthfi Script v.1
+	Luthfi seorang anak biasa!1!1! :).
 	Yang bersekolah di MTS Muqorrobin Tangerang.
 	Sponsored by Muqorrobin Hack Team\n
 	cara pakai : python3 pukul.py [-s] [-p] [-t]
