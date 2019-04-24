@@ -89,9 +89,9 @@ def usage():
 	╦  ┬ ┬┌─┐┬┌┬┐┌─┐  ╔╦╗╔╦╗┌─┐╔═╗
 	║  │ ││  │ │ ├─┤   ║║ ║║│ │╚═╗
 	╩═╝└─┘└─┘┴ ┴ ┴ ┴  ═╩╝═╩╝└─┘╚═╝
-	Script DDoS hack by Luthfi Script v.1
-	Luthfi seorang anak biasa!1!1! :).
-	Yang bersekolah di MTS Muqorrobin Tangerang.
+	Script DDoS hack by Luthfi Script v.3
+	LUTHFI BY MUQOROBIN ANAK THEBEST!1!1! :).
+	sekolah MTS Muqorrobin Tangerang YG PALING THEBEST.
 	Sponsored by Muqorrobin Hack Team\n
 	cara pakai : python3 pukul.py [-s] [-p] [-t]
 	contoh : python3 pukul.py -s 192.168.0.1 -p 80 -t 135	
